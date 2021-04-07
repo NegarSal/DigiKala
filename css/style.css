@@ -1,4 +1,6 @@
-
+body{
+  overflow-x: hidden;
+}
   /* Create three unequal columns that floats next to each other */
   .column {
     float: left;
@@ -140,3 +142,10 @@ img {vertical-align: middle;}
 }
 
 /*End Part 3 */
+
+
+.up{
+  text-decoration: none;
+  color: #000;
+  font-size: medium;
+}
